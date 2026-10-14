@@ -1,0 +1,7 @@
+google-genai
+pydantic>=2
+fastapi
+uvicorn[standard]
+python-dotenv>=1.0
+python-multipart>=0.0.9
+cloudpickle>=3.0
